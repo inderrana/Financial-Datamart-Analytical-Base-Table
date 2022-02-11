@@ -1,0 +1,14 @@
+../Financial Data description_1.pdf
+../Financial Data description_2.pdf
+../data_berka\account.asc
+../data_berka\base_table.csv
+../data_berka\card.asc
+../data_berka\client.asc
+../data_berka\cls.csv
+../data_berka\disp.asc
+../data_berka\district.asc
+../data_berka\dtypes.csv
+../data_berka\loan.asc
+../data_berka\order.asc
+../data_berka\output.txt
+../data_berka\trans.asc
